@@ -49,6 +49,8 @@ Muni Meeting is designed for the 30,000 cities and towns in the United States wi
 
 Meetings can often take place in low/no network connectivity locations, especially in more rural towns without public WiFi. The Muni Meeting tools should take this into account and when possible use local storage so they can be used without network connectivity.
 
+Ideally an API specification and data exchange format for for Open Meetings develops similiar to what Open311 has done for call center related activities.
+
 Proposed Models & Roles
 ----
 * **Municipalities** like Watertown, MA or Cambridge, MA have many **Organizations**

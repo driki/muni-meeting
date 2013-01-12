@@ -109,8 +109,21 @@ After a presentation of an Agenda Item from a Guest, the Chair of the Meeting wi
 
 This process is repeated until there are no more Agenda Items, the next public Meeting is announced and the *meeting is adjounded* with the official time recorded. 
 
-The Scribe will often sign or state who their name.
+The Scribe will often sign or write their name.
 
 Post Meeting Process
 ----
-Meetings are typically created in 
+Meetings are typically created in Microsoft tools like Word or written by hand on paper. Attachemnts for supporting materials are typically PDFs, PowerPoint or Excel documents. The Scribe is often responsible for converting their Microsoft Word document into a PDF that then needs to be posted to the web. Often the Scribe doesn't have the technical access or ability to post to the municipal website. More meeting minutes, agendas and documents are being posted to the web as HTML documents, while the text is easier to access the raw meeting text is usually inaccessable as the templated, wrapper navigation and links are hard to separate from the minute text.
+
+Often, larger cities using a CMS are able to have index pages dynamically created, but often the index of prior meetings are managed by hand in long, large documents that are error prone.
+
+Meeting Minutes are in a **DRAFT** state until they are approved by the Members at the following Meeting.
+
+Other Challenges for Municipalities
+----
+* Most Meeting Minutes are not searchable, few cities or towns have useful search systems that index the content within  the PDFs and Word documents currently published.
+* Most Municipalities have now database of votes from Town Councilors and Selectboard members. Citizens are unable to track how their local elected officials have voted. There is no record.
+* Providing Meeting Packets is a manual process and there are time savings to be had.
+* Each Scribe takes minutes in differing formats, using different date formats and templates.
+* No web accessible historical record. Often cities bury this information in dark corners of the web.
+

@@ -47,6 +47,8 @@ Muni Meeting takes an opinionated approach to how public local government meetin
 
 Muni Meeting is designed for the 30,000 cities and towns in the United States with fewer than 50,000 residents. While it SHOULD and likley will support the facilitation and meeting process of larger cities and towns, it isn't intended to address larger, complicated legislative processes.
 
+Meetings can often take place in low/no network connectivity locations, especially in more rural towns without public WiFi. The Muni Meeting tools should take this into account and when possible use local storage so they can be used without network connectivity.
+
 Proposed Models & Roles
 ----
 * **Municipalities** like Watertown, MA or Cambridge, MA have many **Organizations**
@@ -66,6 +68,7 @@ Proposed Models & Roles
 * Each Agenda Item can have many Attachments like PDFs, Word docs, etc.
 * Each Meeting has a Scribe often referred to as a Secretary, Note Taker or Minute Taker
 * **Motions** are made on some Agenda Items and the Votes of Members are recorded
+* Each Meeting has **Minutes** which are recorded by the Scribe and are often required to be posted publicly
  
 Municipal Meeting Workflow & Process
 ----
@@ -73,9 +76,9 @@ For each Organization Meeting that takes place an Agenda is created, usually by 
 
 * Call to Order - Bob opened the meeting at 6:32pm.
 * Roll Call - Matt: Present, Jason, Present, Chris: Absent
+* Executive Session
 * Pledge of Allegiance
 * Ammending of and/or Adoption of prior Minutes - Jason moved to accept the October minutes 
-* Executive Session
 * Public Comments/Forum - An opportunity for those in attendance to speak about non-Agenda Items
 * Agenda Items unique to this Meeting - Motions can be made and Votes are tallied
 * Public Comments/Forum - An opportunity for those in attendance to speak about non-Agenda Items
@@ -90,4 +93,24 @@ Municipal Government will likely take considerable time to transition to digital
 
 The Actual Meeting
 ----
-Meetings typically take place in the evening, usually starting between 6:00-7:00pm. A Meeting is *called to order* 
+Meetings typically take place in the evening, usually starting between 6:00-7:00pm. A Meeting is officially *called to order* by the Chair-Person for the Meeting and the official start time is recorded for the record. *Roll Call* is usually initialed by the Scribe and is when Members declare their attendance to the Meeting. A verbal record of *Present* or *Absent* is recorded by the Scribe. A Scribe typically takes notes either with paper and pencil or with a computer using Microsoft Word. In communities of 30,000+ there is often a cable access feed provided of the larger meetings. Smaller towns and sub-commmittee meetings typically have no audio or video recording available.
+
+Typically a Meeting is *called to order* & *roll call* taken only to have the Meeting move into Executive Session, where the contents of the meetings are private within the constraints of a states Open Meeting Laws. After returning from Executive Session (typically 15-60 minutes) the meeting beings in front of the Public. The *Pledge of Allegiance* is often performed. 
+
+Their is usually an Agenda Item to *review prior minutes* which often results in no amendments. There are times when Amendments are requested by Members and the Scribe is responsible for noting them and *adjusting prior minutes* at a later date.
+
+During the Meeting the Scribe takes notes for each Agenda Item which are later posted as Meeting Minutes. Typically there is a presentation of each Agenda Item, either by a Member or Guest who has been either *requested to speak* or who has requested to speak. Agena Items are typically set 3 days in advance of a Meeting so that proper public notice can be provided for those that wish to attend.
+
+Usually the first Agenda Item after the Pledge of Allegiance has been performed is a Public Comment or Forum period. Each Guest in the audience is given the opportunity to speak about any topic for a maximum time period. Typically the time alloted is between 3-5 minutes. Most Municipalities require that a Guest speaking during Public Forum state their name and street address. This is usually recorded by the Scribe but there are often typos and missed information because of challenges hearing new names and street addresses.
+
+Often a Scribe will refer to Members and Regular Guests by their initials when taking notes. For example, Matt MacDonald would often be referenced as (MM) throughout the document.
+
+After a presentation of an Agenda Item from a Guest, the Chair of the Meeting will typically *open the floor for discussion* among fellow Members. Members are given the opportunity to *comment* and ask questions of the Guest presenting. After discussion, the Chair asks if there are any *motions on this item* to be made. A Member of the Organization *makes a motion* and waits for it to be *seconded* by another Member. After *the motion is seconded* a *vote takes place*. If the motion fails to seconded no vote takes place. When voting, the Scribe verbally calls out to each Member of the Organization and asks for their vote of Yay, Nay or Abstain. The Scribe records the vote for each Member and the Chair of the Meeting announces if the *motion passes* or the *motion fails*.
+
+This process is repeated until there are no more Agenda Items, the next public Meeting is announced and the *meeting is adjounded* with the official time recorded. 
+
+The Scribe will often sign or state who their name.
+
+Post Meeting Process
+----
+Meetings are typically created in 
